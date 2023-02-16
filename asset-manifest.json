@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_prac_tours/static/css/main.566bd010.css",
+    "main.js": "/react_prac_tours/static/js/main.dff7e6cd.js",
+    "index.html": "/react_prac_tours/index.html",
+    "main.566bd010.css.map": "/react_prac_tours/static/css/main.566bd010.css.map",
+    "main.dff7e6cd.js.map": "/react_prac_tours/static/js/main.dff7e6cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.566bd010.css",
+    "static/js/main.dff7e6cd.js"
+  ]
+}
